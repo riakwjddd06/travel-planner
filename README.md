@@ -15,14 +15,14 @@
 
 프로그램은 CLI(Command Line Interface) 방식으로 실행합니다.
 
-```bash
+
 모든 개발 과정은 ChatGPT를 사용해 진행하였습니다.
 
 이 프로젝트를 개발하면서 ChatGPT와 진행한 대화 기록은 아래 링크에서 확인할 수 있습니다.
 
-[ChatGPT 개발 대화 로그 보기](https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16)
-https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16
-```
+- [ChatGPT 개발 대화 로그 보기](https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16)
+  - https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16
+
 
 ---
 
@@ -944,3 +944,4 @@ results/2026-10-15_travel_plan(2)_final.md
 ```
 
 가장 최근 실행 결과는 `_final` 파일을 확인하면 됩니다.
+
