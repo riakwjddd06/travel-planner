@@ -22,8 +22,8 @@
 이 프로젝트를 개발하면서 ChatGPT와 진행한 대화 기록은 아래 링크에서 확인할 수 있습니다.
 ```
 
-- [ChatGPT 개발 대화 로그 보기](https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16)
-https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16
+[ChatGPT 개발 대화 로그 보기]
+- https://chatgpt.com/share/6aacfc76-e1a8-83ee-bd30-5bbf36ae4a16
 
 ---
 
